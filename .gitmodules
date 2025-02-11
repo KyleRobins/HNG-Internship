@@ -1,0 +1,6 @@
+[submodule "stage-one"]
+	path = stage-one
+	url = https://github.com/KyleRobins/stage-one.git
+[submodule "stage-two"]
+	path = stage-two
+	url = https://github.com/KyleRobins/stage-two.git
